@@ -1,4 +1,4 @@
-# Anomaly-Detection-Tennesse-Easrman-Process
+# Anomaly-Detection-Tennesse-Eastman-Process
 Building a fault detection system using Machine Learning Models. Application of ML/AI in the process plant and design. Real time fault diagnosis. Formulation of defence mechanism using Adversarial Machine Learning-Random Forest/SVM. 
 
 Tennesse Eastman Process Simulation Data for Anomaly Detection in Process Design using Machine Learning.
