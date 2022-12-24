@@ -3,8 +3,13 @@ Building a fault detection system using Machine Learning Models. Application of 
 
 Tennesse Eastman Process Simulation Data for Anomaly Detection in Process Design using Machine Learning.
 #### Basic Idea of TEP:
+![TE_flow](https://user-images.githubusercontent.com/83132841/209425320-cdc9eb00-56c5-4a76-bdf2-92bee8c7956b.jpg)
+
 
 Tennesee Eastman Process is an industrial process widely used as a benchmark in test fault diagnosis and process control.
+
+![1_vrej_1VycyXugdnRE7utjA](https://user-images.githubusercontent.com/83132841/209425270-8ff972a5-22cb-43b7-bee6-4f4a2901c171.png)
+
 
 # Case Studies:
 * Plant Wide Control
@@ -12,6 +17,9 @@ Tennesee Eastman Process is an industrial process widely used as a benchmark in 
 * Sensor fault detection
 * Identification of data-driven models.
 
+Q. What is Anomaly ?
+
+![0_eFw69xQTC5NT3m9g](https://user-images.githubusercontent.com/83132841/209425215-dbfe773b-518d-46ea-b909-ee2d0dded83c.jpeg)
 
 # Aim and Objective of the Project:
 
